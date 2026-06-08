@@ -11,13 +11,14 @@
             "id": "c8188f198a595a4d",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Sin título.base",
-                "viewName": "Tabla"
+                "file": "99 - Archivo/_índice.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Sin título"
+              "icon": "lucide-file",
+              "title": "_índice"
             }
           }
         ]
@@ -193,13 +194,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8188f198a595a4d",
+  "active": "142679f1d16752db",
   "lastOpenFiles": [
+    "04 - Personal/_índice.md",
+    "03 - Recursos/_índice.md",
+    "02 - Proyectos/_índice.md",
+    "01 - Holaglow Regulatorio/_índice.md",
+    "01 - Holaglow Proveedores/_índice.md",
+    "01 - Holaglow Operaciones/_índice.md",
+    "01 - Holaglow Expansion/_índice.md",
+    "01 - Holaglow Clinicas/_índice.md",
+    "01 - Holaglow/_índice.md",
+    "00 - INBOX/_índice.md",
+    "99 - Archivo/_índice.md",
     "Sin título.base",
+    "99 - Archivo",
+    "04 - Personal",
+    "03 - Recursos",
+    "02 - Proyectos",
+    "01 - Holaglow Regulatorio",
+    "01 - Holaglow Proveedores",
+    "01 - Holaglow Operaciones",
+    "01 - Holaglow Expansion",
+    "01 - Holaglow Clinicas",
     "Sin título 2.md",
     "Sin título.md",
     "Sin título 1.md",
-    "Sin nombre",
     "Bienvenido.md"
   ]
 }
