@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Archivo/_índice.md",
+                "file": "01 - Holaglow Expansion/Barcelona-Bruc-151.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_índice"
+              "title": "Barcelona-Bruc-151"
             }
           }
         ]
@@ -196,17 +196,33 @@
   },
   "active": "142679f1d16752db",
   "lastOpenFiles": [
-    "04 - Personal/_índice.md",
-    "03 - Recursos/_índice.md",
-    "02 - Proyectos/_índice.md",
-    "01 - Holaglow Regulatorio/_índice.md",
-    "01 - Holaglow Proveedores/_índice.md",
-    "01 - Holaglow Operaciones/_índice.md",
-    "01 - Holaglow Expansion/_índice.md",
-    "01 - Holaglow Clinicas/_índice.md",
-    "01 - Holaglow/_índice.md",
-    "00 - INBOX/_índice.md",
-    "99 - Archivo/_índice.md",
+    "01 - Holaglow Proveedores/Allergan.md",
+    "01 - Holaglow Regulatorio/Expediente-U84-Malaga.md",
+    "01 - Holaglow Regulatorio/Expediente-U48-Malaga.md",
+    "01 - Holaglow Regulatorio/Auditoria-Regulatoria-2025.md",
+    "03 - Recursos/_plantilla-expediente.md",
+    "01 - Holaglow Expansion/Sevilla-Eduardo-Dato-32.md",
+    "01 - Holaglow Expansion/Sevilla-Asuncion-16.md",
+    "01 - Holaglow Expansion/Bilbao-analisis-zona.md",
+    "01 - Holaglow Expansion/Barcelona-Bruc-151.md",
+    "01 - Holaglow Expansion/_plantilla-propiedad.md",
+    "03 - Recursos/_plantilla-propiedad.md",
+    "01 - Holaglow Proveedores/Galderma.md",
+    "01 - Holaglow Proveedores/Croma.md",
+    "03 - Recursos/03 - Recursos_plantilla-proveedor.md.md",
+    "01 - Holaglow Proveedores/Sin título.md",
+    "01 - Holaglow Clinicas/Barcelona.md",
+    "01 - Holaglow Clinicas/Zaragoza.md",
+    "01 - Holaglow Clinicas/Valencia.md",
+    "01 - Holaglow Clinicas/Murcia.md",
+    "01 - Holaglow Clinicas/Malaga.md",
+    "01 - Holaglow Clinicas/Madrid.md",
+    "01 - Holaglow Clinicas/Zaragoza.md.md",
+    "01 - Holaglow Clinicas/Alicante.md",
+    "01 - Holaglow Clinicas/Malaga.md.md",
+    "01 - Holaglow Clinicas/Madrid.md.md",
+    "01 - Holaglow Clinicas/Barcelona.md.md",
+    "01 - Holaglow Clinicas/files.zip",
     "Sin título.base",
     "99 - Archivo",
     "04 - Personal",
@@ -215,11 +231,6 @@
     "01 - Holaglow Regulatorio",
     "01 - Holaglow Proveedores",
     "01 - Holaglow Operaciones",
-    "01 - Holaglow Expansion",
-    "01 - Holaglow Clinicas",
-    "Sin título 2.md",
-    "Sin título.md",
-    "Sin título 1.md",
-    "Bienvenido.md"
+    "01 - Holaglow Expansion"
   ]
 }
